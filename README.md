@@ -2,6 +2,6 @@
 - 👀 I’m interested in machine learning and AI development
 - 🌱 I’m currently learning ReactJs (Intermediate Level)
 - 📫 contact me on SUZU9050@gmail.com
-- See all my deployed sites:https://vercel.com/sujanChy00
+- See all my deployed sites :https://vercel.com/sujanchy00
 - follow me on instagram : https://www.instagram.com/suzu_y97/ 
 - follow me on facebook : https://www.facebook.com/sujan.chy.9210/

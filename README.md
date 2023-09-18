@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Sujan Chaudhary
-- 👀 I’m interested in machine learning and AI development
-- 🌱 I’m currently learning ReactJs (Intermediate Level)
+- 👋 Hi, I’m Sujan Chaudhary.
+- 👀 I’m interested in machine learning and AI development.
+- 🌱 Working at Asha&Company as Frontend Developer and currently involved in app development (React Native).
 - 📫 contact me on SUZU9050@gmail.com
-- Visit my PORTFOLIO : sujanchy-portfolio.vercel.app
+- Visit my PORTFOLIO : https://sujanchy-portfolio.vercel.app/
 - follow me on instagram : https://www.instagram.com/suzu_y97/ 
 - follow me on facebook : https://www.facebook.com/sujan.chy.9210/
